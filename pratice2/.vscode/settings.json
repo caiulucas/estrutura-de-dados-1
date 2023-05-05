@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    "stdio.h": "c"
+  }
+}
